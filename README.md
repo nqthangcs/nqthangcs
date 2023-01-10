@@ -21,15 +21,18 @@
 
 
 
+## 👨‍💻 Languages
+[![PL](https://img.shields.io/badge/Programming%20Language-C-blue?style=for-the-badge&logo=c%2B%2B&logoWidth=20&logoColor=white&labelColor=555555)](https://www.geeksforgeeks.org/c-programming-language/)
+[![PL](https://img.shields.io/badge/Programming%20Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoWidth=20&logoColor=white&labelColor=555555)](https://www.freecodecamp.org/news/the-c-plus-plus-programming-language/)
+[![PL](https://img.shields.io/badge/Programming%20Language-Python-blue?style=for-the-badge&logo=python&logoWidth=20&logoColor=white&labelColor=555555)](https://www.python.org/)
+[![PL](https://img.shields.io/badge/Language-Latex-blue?style=for-the-badge&logo=latex&logoWidth=20&logoColor=white&labelColor=555555)](https://www.python.org/)
+
 ## 🛠️ Technologies and Tools
 
 [![WT](https://img.shields.io/badge/Web%20Technology-HTML5-blue?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/HTML)
 [![WT](https://img.shields.io/badge/Web%20Technology-CSS3-blue?style=for-the-badge&logo=css3&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/CSS)
 [![WT](https://img.shields.io/badge/Web%20Technology-JavaScript-blue?style=for-the-badge&logo=javascript&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![WT](https://img.shields.io/badge/Web%20Technology-Markdown-blue?style=for-the-badge&logo=markdown&logoWidth=20&logoColor=white&labelColor=555555)](https://www.markdownguide.org/)
-[![PL](https://img.shields.io/badge/Programming%20Language-C-blue?style=for-the-badge&logo=c%2B%2B&logoWidth=20&logoColor=white&labelColor=555555)](https://www.geeksforgeeks.org/c-programming-language/)
-[![PL](https://img.shields.io/badge/Programming%20Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoWidth=20&logoColor=white&labelColor=555555)](https://www.freecodecamp.org/news/the-c-plus-plus-programming-language/)
-[![PL](https://img.shields.io/badge/Programming%20Language-Python-blue?style=for-the-badge&logo=python&logoWidth=20&logoColor=white&labelColor=555555)](https://www.python.org/)\
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20&logoColor=white&labelColor=555555)](https://code.visualstudio.com)
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-blue?style=for-the-badge&logo=visual-studio&logoWidth=20&logoColor=white&labelColor=555555)](https://visualstudio.microsoft.com/)\
 [![TOOL](https://img.shields.io/badge/Tools%20--%20Version%20Control-Git%20SCM-blue?style=for-the-badge&logo=git&logoWidth=20&logoColor=white&labelColor=555555)](https://git-scm.com)
