@@ -25,7 +25,7 @@
 [![PL](https://img.shields.io/badge/Programming%20Language-C-blue?style=for-the-badge&logo=c%2B%2B&logoWidth=20&logoColor=white&labelColor=555555)](https://www.geeksforgeeks.org/c-programming-language/)
 [![PL](https://img.shields.io/badge/Programming%20Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoWidth=20&logoColor=white&labelColor=555555)](https://www.freecodecamp.org/news/the-c-plus-plus-programming-language/)
 [![PL](https://img.shields.io/badge/Programming%20Language-Python-blue?style=for-the-badge&logo=python&logoWidth=20&logoColor=white&labelColor=555555)](https://www.python.org/)
-[![PL](https://img.shields.io/badge/Language-Latex-blue?style=for-the-badge&logo=latex&logoWidth=20&logoColor=white&labelColor=555555)](https://www.python.org/)
+[![PL](https://img.shields.io/badge/Language-Latex-blue?style=for-the-badge&logo=latex&logoWidth=20&logoColor=white&labelColor=555555)](https://www.latex-project.org/)
 
 ## 🛠️ Technologies and Tools
 
