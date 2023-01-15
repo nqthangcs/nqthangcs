@@ -7,7 +7,7 @@
 ## 🚀 About me
 + 🎓 I'm a student from 🇻🇳 Vietnam.
 
-+ 🖥️ I’m currently studying Computer Science at VNUHCM-University of Science.
++ 🖥️ I’m currently studying Computer Science at [VNUHCM-University of Science](https://en.hcmus.edu.vn/home/faculty-staff).
 
 + 🕰️ In my free time, I usually learn Mathematics and DSA to improve my skills.
 
@@ -32,7 +32,7 @@
 [![WT](https://img.shields.io/badge/Web%20Technology-HTML5-blue?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/HTML)
 [![WT](https://img.shields.io/badge/Web%20Technology-CSS3-blue?style=for-the-badge&logo=css3&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/CSS)
 [![WT](https://img.shields.io/badge/Web%20Technology-JavaScript-blue?style=for-the-badge&logo=javascript&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![WT](https://img.shields.io/badge/Web%20Technology-Markdown-blue?style=for-the-badge&logo=markdown&logoWidth=20&logoColor=white&labelColor=555555)](https://www.markdownguide.org/)
+[![WT](https://img.shields.io/badge/Web%20Technology-Markdown-blue?style=for-the-badge&logo=markdown&logoWidth=20&logoColor=white&labelColor=555555)](https://www.markdownguide.org/) \
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20&logoColor=white&labelColor=555555)](https://code.visualstudio.com)
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-blue?style=for-the-badge&logo=visual-studio&logoWidth=20&logoColor=white&labelColor=555555)](https://visualstudio.microsoft.com/)\
 [![TOOL](https://img.shields.io/badge/Tools%20--%20Version%20Control-Git%20SCM-blue?style=for-the-badge&logo=git&logoWidth=20&logoColor=white&labelColor=555555)](https://git-scm.com)
