@@ -41,3 +41,8 @@
 [![OS](https://img.shields.io/badge/OS-Windows%207-blue?style=for-the-badge&logo=windows&logoWidth=20&logoColor=white&labelColor=555555)](https://www.microsoft.com/windows)
 [![OS](https://img.shields.io/badge/OS-Windows%2010-blue?style=for-the-badge&logo=windows&logoWidth=20&logoColor=white&labelColor=555555)](https://www.microsoft.com/windows)
 [![OS](https://img.shields.io/badge/OS-Ubuntu%20Desktop-blue?style=for-the-badge&logo=ubuntu&logoWidth=20&logoColor=white&labelColor=555555)](https://ubuntu.com)
+
+## 📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thanguyen165&hide=issues,contribs&count_private=true&show_icons=true&theme=material-palenight" alt="thanguyen165" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=thanguyen165&theme=material-palenight" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanguyen165&layout=compact&theme=material-palenight&langs_count=10&card_width=445" alt="Language Stats" /> </p>
