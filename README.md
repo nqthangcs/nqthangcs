@@ -7,7 +7,7 @@
 ## 🚀 About me
 + 🎓 I'm a student from 🇻🇳 Vietnam.
 
-+ 🖥️ I’m currently studying [Computer Science](https://www.fit.hcmus.edu.vn/vn/) at [VNUHCM-University of Science](https://en.hcmus.edu.vn/home/faculty-staff).
++ 🖥️ I’m currently studying [Computer Science](https://www.fit.hcmus.edu.vn/vn/) at [VNUHCM-University of Science](https://www.hcmus.edu.vn/).
 
 + 🕰️ In my free time, I usually learn Mathematics and DSA to improve my skills.
 
